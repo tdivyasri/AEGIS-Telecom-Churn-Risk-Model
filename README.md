@@ -121,7 +121,7 @@ AEGIS-Churn-Risk-Model/
 Clone the repository:
 
 ```bash
-git clone https://github.com/tdivyasri/AEGIS-Churn-Risk-Model.git
+git clone https://github.com/tdivyasri/AEGIS-Telecom-Churn-Risk-Model
 ```
 
 Install the required libraries:
